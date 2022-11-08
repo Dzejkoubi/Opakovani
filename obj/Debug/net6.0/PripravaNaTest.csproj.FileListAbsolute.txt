@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\bin\Debug\net6.0\PripravaNaTest.exe
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\bin\Debug\net6.0\PripravaNaTest.deps.json
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\bin\Debug\net6.0\PripravaNaTest.runtimeconfig.json
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\bin\Debug\net6.0\PripravaNaTest.dll
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\bin\Debug\net6.0\PripravaNaTest.pdb
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.dll
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\refint\PripravaNaTest.dll
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.pdb
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\PripravaNaTest.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Dokumenty\Kuba\Stredni Skola\Programs\PripravaNaTest\obj\Debug\net6.0\ref\PripravaNaTest.dll
